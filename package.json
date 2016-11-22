@@ -1,0 +1,19 @@
+{
+  "name": "x-is-dom",
+  "version": "1.0.0",
+  "description": "check if x is a dom element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/x-is-dom.git"
+  },
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/x-is-dom/issues"
+  },
+  "homepage": "https://github.com/serapath/x-is-dom#readme"
+}
